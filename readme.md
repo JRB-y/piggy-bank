@@ -3,12 +3,11 @@
 
 ## A PiggyBank smart contract
 </center>
-<br>
-<br>
 bsc testnet address: `0x69EA3e7E81167467c9F6fB90111d63CF947750c4`
 
 <br>
 <br>
+*This smart contract is for testing and learning so don't use it in main networks*
 
 ## Made with
 - Solidity
