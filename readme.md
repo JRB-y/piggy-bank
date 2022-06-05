@@ -1,4 +1,3 @@
-# Piggy Bank Smart contract
 <center>
 <img src="https://www.pngall.com/wp-content/uploads/8/Vector-Piggy-Bank-PNG-Free-Image.png" data-canonical-src="https://www.pngall.com/wp-content/uploads/8/Vector-Piggy-Bank-PNG-Free-Image.png" width="150" height="150" />
 
